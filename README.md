@@ -1,0 +1,1 @@
+Contains completed exercises from the University of Helsinki's Java MOOC Part 8 at https://java-programming.mooc.fi/part-8. Part 8 focuses on HashMaps and comparing objects with equals() and hashCode().
